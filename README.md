@@ -1,9 +1,11 @@
 # Sentiment-Analysis-Using-Transformers-Tensorflow-and-BERT-Model
 
 Overview
+
 This project demonstrates the implementation of a sentiment analysis system using state-of-the-art Natural Language Processing (NLP) techniques. It leverages the power of Transformers and BERT (Bidirectional Encoder Representations from Transformers) model, implemented with TensorFlow, to classify text data into different sentiment categories. This repository contains code, data, and instructions to build and train a sentiment analysis model from scratch, as well as to perform inference on new data.
 
 Features
+
 BERT Model: Utilizes the pre-trained BERT model for robust feature extraction and sentiment classification.
 Transformers Library: Employs Hugging Face's Transformers library for seamless integration and model management.
 TensorFlow Framework: Implements the model using TensorFlow for efficient training and deployment.
