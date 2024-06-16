@@ -4,6 +4,9 @@ Overview
 
 This project demonstrates the implementation of a sentiment analysis system using state-of-the-art Natural Language Processing (NLP) techniques. It leverages the power of Transformers and BERT (Bidirectional Encoder Representations from Transformers) model, implemented with TensorFlow, to classify text data into different sentiment categories. This repository contains code, data, and instructions to build and train a sentiment analysis model from scratch, as well as to perform inference on new data.
 
+![image](https://github.com/vishnuvemuri/Sentiment-Analysis-Using-Transformers-Tensorflow-and-BERT-Model/assets/96485620/e2d62d4a-f544-4384-9d70-157c67d518b7)
+
+
 Features
 
 BERT Model: Utilizes the pre-trained BERT model for robust feature extraction and sentiment classification.
@@ -13,7 +16,12 @@ Data Preprocessing: Includes scripts for data cleaning, tokenization, and prepar
 Model Training: Provides customizable training scripts with options for fine-tuning hyperparameters.
 Inference Pipeline: Contains a streamlined pipeline for performing sentiment analysis on new text data.
 Evaluation Metrics: Measures performance using standard metrics like accuracy, precision, recall, and F1-score.
+
+![image](https://github.com/vishnuvemuri/Sentiment-Analysis-Using-Transformers-Tensorflow-and-BERT-Model/assets/96485620/a2e71a53-133e-4692-973d-7c9e9a9273d5)
+
+
 Installation
+
 Clone the Repository:
 
 sh
